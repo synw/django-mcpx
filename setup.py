@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="django-mcpx",
-    version="0.1.0",
+    version="0.1.1",
     author="synw",
     author_email="synwe@yahoo.com",
     description="A Django package for MCP authentication",

@@ -92,10 +92,10 @@ mcp_server = {
 
 ### 3. Running the MCP Server
 
-To run the MCP servers listed in settings use the `mcp` management command provided by Django MCPX:
+To run the MCP servers listed in settings use the `runmcp` management command provided by Django MCPX:
 
 ```bash
-python manage.py mcpx --host localhost --port 8397
+python manage.py runmcp --host localhost --port 8397
 ```
 
 This will start the MCP servers on `localhost` at port `8397`.
