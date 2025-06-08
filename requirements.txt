@@ -1,0 +1,18 @@
+# Core package dependencies
+Django>=2.0
+fastmcp
+
+# Development dependencies
+twine
+setuptools
+wheel
+pylint
+black
+isort
+
+# Testing
+pytest
+pytest-django
+
+# Build dependency
+build
